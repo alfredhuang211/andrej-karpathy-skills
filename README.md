@@ -101,7 +101,7 @@ From within Claude Code, first add the marketplace:
 
 Then install the plugin:
 ```
-/plugin install andrej-karpathy-skills@karpathy-skills
+/plugin install andrej-karpathy-skills@code-guidelines
 ```
 
 This installs the guidelines as a Claude Code plugin, making the skill available across all your projects.
